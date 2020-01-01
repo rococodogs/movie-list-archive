@@ -2,7 +2,7 @@ Date,Name,Year,Letterboxd URI
 2015-01-30,Jodi Arias: Dirty Little Secret,2013,https://letterboxd.com/film/jodi-arias-dirty-little-secret/
 2015-01-30,Cool Runnings,1993,https://letterboxd.com/film/cool-runnings/
 2015-01-30,The Thing,1982,https://letterboxd.com/film/the-thing/
-2015-01-30,Whitney,2015,https://letterboxd.com/film/film:246286/
+2015-01-30,Whitney,2015,https://letterboxd.com/film/whitney-2015/
 2015-01-30,Dark Skies,2013,https://letterboxd.com/film/dark-skies-2013/
 2015-01-30,Friday the 13th Part III,1982,https://letterboxd.com/film/friday-the-13th-part-iii/
 2015-01-30,Dawn Anna,2005,https://letterboxd.com/film/dawn-anna/
@@ -57,7 +57,7 @@ Date,Name,Year,Letterboxd URI
 2015-07-15,Night Will Fall,2014,https://letterboxd.com/film/night-will-fall/
 2015-07-20,Trainwreck,2015,https://letterboxd.com/film/trainwreck/
 2015-07-20,Tig,2015,https://letterboxd.com/film/tig/
-2015-07-20,Todd Barry: The Crowd Work Tour,2014,
+2015-07-20,Todd Barry: The Crowd Work Tour,2014,https://letterboxd.com/film/todd-barry-the-crowd-work-tour/
 2015-08-23,Revolution '67,2007,https://letterboxd.com/film/revolution-67/
 2015-08-23,Finding Vivian Maier,2013,https://letterboxd.com/film/finding-vivian-maier/
 2015-09-06,Black Sunday,1960,https://letterboxd.com/film/black-sunday-1960/
@@ -74,7 +74,7 @@ Date,Name,Year,Letterboxd URI
 2015-09-20,True Story,2015,https://letterboxd.com/film/true-story/
 2015-09-22,The Inauguration of the Pleasure Dome,1954,https://letterboxd.com/film/the-inauguration-of-the-pleasure-dome/
 2015-09-23,The Cowboy and the Frenchman,1988,https://letterboxd.com/film/the-cowboy-and-the-frenchman/
-2015-09-23,Premonition Following an Evil Deed,1995,https://letterboxd.com/film/premonition-following-an-evil-deed/
+2015-09-23,Premonitions Following an Evil Deed,1995,https://letterboxd.com/film/premonitions-following-an-evil-deed/
 2015-09-27,A Spell to Ward Off the Darkness,2013,https://letterboxd.com/film/a-spell-to-ward-off-the-darkness/
 2015-09-28,Ungodly Acts,2015,https://letterboxd.com/film/ungodly-acts/
 2015-10-02,Begotten,1990,https://letterboxd.com/film/begotten/
@@ -174,8 +174,8 @@ Date,Name,Year,Letterboxd URI
 2016-09-18,Blair Witch,2016,https://letterboxd.com/film/blair-witch/
 2016-09-19,Creepshow,1982,https://letterboxd.com/film/creepshow/
 2016-09-24,Raiders!: The Story of the Greatest Fan Film Ever Made,2015,https://letterboxd.com/film/raiders-the-story-of-the-greatest-fan-film-ever-made/
-2016-09-24,Raiders of the Lost Ark - The Adaptation,1989,https://letterboxd.com/film/raiders-of-the-lost-ark-the-adaptation/
-2016-10-01,I Spit on Your Grave,1978,https://letterboxd.com/film/i-spit-on-your-grave/
+2016-09-24,Raiders of the Lost Ark: The Adaptation,1989,https://letterboxd.com/film/raiders-of-the-lost-ark-the-adaptation/
+2016-10-01,Day of the Woman,1978,https://letterboxd.com/film/day-of-the-woman/
 2016-10-01,Death Weekend,1976,https://letterboxd.com/film/death-weekend/
 2016-10-02,The Texas Chain Saw Massacre,1974,https://letterboxd.com/film/the-texas-chain-saw-massacre/
 2016-10-02,The Blood Spattered Bride,1972,https://letterboxd.com/film/the-blood-spattered-bride/
@@ -398,7 +398,7 @@ Date,Name,Year,Letterboxd URI
 2017-07-15,Videodrome,1983,https://letterboxd.com/film/videodrome/
 2017-07-15,Eyes Without a Face,1960,https://letterboxd.com/film/eyes-without-a-face/
 2017-07-15,Fanny & Alexander,1982,https://letterboxd.com/film/fanny-alexander/
-2017-07-15,The Making of Fanny and Alexander,1986,https://letterboxd.com/film/the-making-of-fanny-and-alexander/
+2017-07-15,The Making of Fanny and Alexander,1984,https://letterboxd.com/film/the-making-of-fanny-and-alexander/
 2017-07-15,L'Eclisse,1962,https://letterboxd.com/film/leclisse/
 2017-07-15,F for Fake,1973,https://letterboxd.com/film/f-for-fake/
 2017-07-15,Jules and Jim,1962,https://letterboxd.com/film/jules-and-jim/
@@ -436,7 +436,7 @@ Date,Name,Year,Letterboxd URI
 2017-07-15,Persona,1966,https://letterboxd.com/film/persona/
 2017-07-15,Breaking the Waves,1996,https://letterboxd.com/film/breaking-the-waves/
 2017-07-15,Scanners,1981,https://letterboxd.com/film/scanners/
-2017-07-15,Jour de Fête,1949,https://letterboxd.com/film/jour-de-fete/
+2017-07-15,Jour de fête,1949,https://letterboxd.com/film/jour-de-fete/
 2017-07-15,Safe,1995,https://letterboxd.com/film/safe/
 2017-07-15,Inside Llewyn Davis,2013,https://letterboxd.com/film/inside-llewyn-davis/
 2017-07-15,The Squid and the Whale,2005,https://letterboxd.com/film/the-squid-and-the-whale/
@@ -485,7 +485,6 @@ Date,Name,Year,Letterboxd URI
 2017-07-15,Jackass 3.5,2011,https://letterboxd.com/film/jackass-35/
 2017-07-15,Raging Bull,1980,https://letterboxd.com/film/raging-bull/
 2017-07-15,Inside Deep Throat,2005,https://letterboxd.com/film/inside-deep-throat/
-2017-07-15,Jackass Presents: Bad Grandpa .5,2014,https://letterboxd.com/film/jackass-presents-bad-grandpa-5/
 2017-07-15,I Am Comic,2010,https://letterboxd.com/film/i-am-comic/
 2017-07-15,Freakonomics,2010,https://letterboxd.com/film/freakonomics/
 2017-07-15,Horrible Bosses,2011,https://letterboxd.com/film/horrible-bosses/
@@ -564,7 +563,6 @@ Date,Name,Year,Letterboxd URI
 2017-07-15,Snuff,1976,https://letterboxd.com/film/snuff/
 2017-07-15,Lake Mungo,2008,https://letterboxd.com/film/lake-mungo/
 2017-07-15,The Cabin in the Woods,2011,https://letterboxd.com/film/the-cabin-in-the-woods/
-2017-07-15,I Don't Want to Be Born,1975,https://letterboxd.com/film/i-dont-want-to-be-born/
 2017-07-15,Session 9,2001,https://letterboxd.com/film/session-9/
 2017-07-15,Insidious,2010,https://letterboxd.com/film/insidious/
 2017-07-15,Nosferatu,1922,https://letterboxd.com/film/nosferatu/
@@ -577,7 +575,7 @@ Date,Name,Year,Letterboxd URI
 2017-07-15,The Stuff,1985,https://letterboxd.com/film/the-stuff/
 2017-07-15,The Oregonian,2011,https://letterboxd.com/film/the-oregonian/
 2017-07-15,The Comedians of Comedy,2005,https://letterboxd.com/film/the-comedians-of-comedy/
-2017-07-15,Pearl Jam: Twenty,2011,https://letterboxd.com/film/pearl-jam-twenty/
+2017-07-15,Pearl Jam Twenty,2011,https://letterboxd.com/film/pearl-jam-twenty/
 2017-07-15,American Grindhouse,2010,https://letterboxd.com/film/american-grindhouse/
 2017-07-15,Jiro Dreams of Sushi,2011,https://letterboxd.com/film/jiro-dreams-of-sushi/
 2017-07-15,Freedom on My Mind,1994,https://letterboxd.com/film/freedom-on-my-mind/
@@ -621,7 +619,6 @@ Date,Name,Year,Letterboxd URI
 2017-07-15,Moneyball,2011,https://letterboxd.com/film/moneyball/
 2017-07-15,Deep Red,1975,https://letterboxd.com/film/deep-red/
 2017-07-15,Killer Fish,1979,https://letterboxd.com/film/killer-fish/
-2017-07-15,Burial Ground,1981,https://letterboxd.com/film/burial-ground/
 2017-07-15,Women's Prison Massacre,1983,https://letterboxd.com/film/womens-prison-massacre/
 2017-07-15,The Faculty,1998,https://letterboxd.com/film/the-faculty/
 2017-07-15,The Innkeepers,2011,https://letterboxd.com/film/the-innkeepers/
@@ -652,7 +649,6 @@ Date,Name,Year,Letterboxd URI
 2017-07-15,Salinger,2013,https://letterboxd.com/film/salinger/
 2017-07-15,Our Nixon,2013,https://letterboxd.com/film/our-nixon/
 2017-07-15,American Hustle,2013,https://letterboxd.com/film/american-hustle/
-2017-07-15,The Place Beyond the Pines,2012,https://letterboxd.com/film/the-place-beyond-the-pines/
 2017-07-15,Fast & Furious 6,2013,https://letterboxd.com/film/fast-furious-6/
 2017-07-15,The Square,2013,https://letterboxd.com/film/the-square-2013/
 2017-07-15,Bobby Fischer Against the World,2011,https://letterboxd.com/film/bobby-fischer-against-the-world/
@@ -671,10 +667,10 @@ Date,Name,Year,Letterboxd URI
 2017-07-15,Milius,2013,https://letterboxd.com/film/milius/
 2017-07-15,A Band Called Death,2012,https://letterboxd.com/film/a-band-called-death/
 2017-07-15,Jodorowsky's Dune,2013,https://letterboxd.com/film/jodorowskys-dune/
-2017-07-15,Dog Star Man,1964,https://letterboxd.com/film/dog-star-man/
-2017-07-15,The Act of Seeing with One's Own Eyes,1971,https://letterboxd.com/film/the-act-of-seeing-with-ones-own-eyes/
+2017-07-15,Dog Star Man,1965,https://letterboxd.com/film/dog-star-man/
+2017-07-15,The Act of Seeing with One's Own Eyes,1972,https://letterboxd.com/film/the-act-of-seeing-with-ones-own-eyes/
 2017-07-15,The Internet's Own Boy: The Story of Aaron Swartz,2014,https://letterboxd.com/film/the-internets-own-boy-the-story-of-aaron-swartz/
-2017-07-15,Night and Fog,1955,https://letterboxd.com/film/night-and-fog/
+2017-07-15,Night and Fog,1956,https://letterboxd.com/film/night-and-fog/
 2017-07-15,Harry Dean Stanton: Partly Fiction,2012,https://letterboxd.com/film/harry-dean-stanton-partly-fiction/
 2017-07-15,The Greatest Movie Ever Rolled,2013,https://letterboxd.com/film/the-greatest-movie-ever-rolled/
 2017-07-15,Stranger on the Third Floor,1940,https://letterboxd.com/film/stranger-on-the-third-floor/
@@ -791,7 +787,7 @@ Date,Name,Year,Letterboxd URI
 2017-08-17,Terminator 2: Judgment Day,1991,https://letterboxd.com/film/terminator-2-judgment-day/
 2017-08-21,In the Mirror of Maya Deren,2002,https://letterboxd.com/film/in-the-mirror-of-maya-deren/
 2017-08-21,The Founder,2016,https://letterboxd.com/film/the-founder/
-2017-08-24,S Is for Stanley,2015,https://letterboxd.com/film/s-is-for-stanley/
+2017-08-24,S Is for Stanley - Trent'anni dietro al volante per Stanley Kubrick,2015,https://letterboxd.com/film/s-is-for-stanley-trentanni-dietro-al-volante-per-stanley-kubrick/
 2017-08-31,Sideways,2004,https://letterboxd.com/film/sideways/
 2017-08-31,About Schmidt,2002,https://letterboxd.com/film/about-schmidt/
 2017-08-31,Citizen Ruth,1996,https://letterboxd.com/film/citizen-ruth/
@@ -819,7 +815,7 @@ Date,Name,Year,Letterboxd URI
 2017-10-04,The Eyes of My Mother,2016,https://letterboxd.com/film/the-eyes-of-my-mother/
 2017-10-05,I Drink Your Blood,1970,https://letterboxd.com/film/i-drink-your-blood/
 2017-10-06,Creep,2014,https://letterboxd.com/film/creep-2014/
-2017-10-06,Dangerous Days: Making Blade Runner,2007,https://letterboxd.com/film/film:8531/
+2017-10-06,Dangerous Days: Making 'Blade Runner',2007,https://letterboxd.com/film/dangerous-days-making-blade-runner/
 2017-10-07,The Monster Squad,1987,https://letterboxd.com/film/the-monster-squad/
 2017-10-07,Night of the Creeps,1986,https://letterboxd.com/film/night-of-the-creeps/
 2017-10-09,Twin Peaks,1989,https://letterboxd.com/film/twin-peaks/
@@ -967,7 +963,7 @@ Date,Name,Year,Letterboxd URI
 2018-07-23,Won't You Be My Neighbor?,2018,https://letterboxd.com/film/wont-you-be-my-neighbor/
 2018-07-27,Burnt Offerings,1976,https://letterboxd.com/film/burnt-offerings/
 2018-07-28,I Bury the Living,1958,https://letterboxd.com/film/i-bury-the-living/
-2018-07-29,Backwoods Marcy,1999,https://letterboxd.com/film/film:461606/
+2018-07-29,Backwoods Marcy,1999,https://letterboxd.com/film/backwoods-marcy/
 2018-07-29,Dementia 13,1963,https://letterboxd.com/film/dementia-13/
 2018-07-29,The Slime People,1963,https://letterboxd.com/film/the-slime-people/
 2018-07-30,The Descent,2005,https://letterboxd.com/film/the-descent/
@@ -1007,7 +1003,7 @@ Date,Name,Year,Letterboxd URI
 2018-10-16,Lisa and the Devil,1973,https://letterboxd.com/film/lisa-and-the-devil/
 2018-10-17,Double Trouble,1992,https://letterboxd.com/film/double-trouble-1992/
 2018-10-18,Sleepaway Camp III: Teenage Wasteland,1989,https://letterboxd.com/film/sleepaway-camp-iii-teenage-wasteland/
-2018-10-19,Ænigma,1987,https://letterboxd.com/film/nigma/
+2018-10-19,Aenigma,1987,https://letterboxd.com/film/aenigma/
 2018-10-21,The Marine,2006,https://letterboxd.com/film/the-marine/
 2018-10-22,The Witch Who Came from the Sea,1976,https://letterboxd.com/film/the-witch-who-came-from-the-sea/
 2018-10-22,Satan,1974,https://letterboxd.com/film/satan-1974/
@@ -1040,7 +1036,7 @@ Date,Name,Year,Letterboxd URI
 2018-11-26,You Were Never Really Here,2017,https://letterboxd.com/film/you-were-never-really-here/
 2018-11-29,"Electric Boogaloo: The Wild, Untold Story of Cannon Films",2014,https://letterboxd.com/film/electric-boogaloo-the-wild-untold-story-of-cannon-films/
 2018-11-30,Opera,1987,https://letterboxd.com/film/opera/
-2018-11-30,Screamers,1981,https://letterboxd.com/film/screamers-1981/
+2018-11-30,Island of the Fishmen,1979,https://letterboxd.com/film/island-of-the-fishmen/
 2018-12-01,The Zodiac Killer,1971,https://letterboxd.com/film/the-zodiac-killer/
 2018-12-01,Stalked by My Doctor,2015,https://letterboxd.com/film/stalked-by-my-doctor/
 2018-12-02,The Boneyard,1991,https://letterboxd.com/film/the-boneyard/
@@ -1067,7 +1063,7 @@ Date,Name,Year,Letterboxd URI
 2018-12-21,Dancer in the Dark,2000,https://letterboxd.com/film/dancer-in-the-dark/
 2018-12-22,Cam,2018,https://letterboxd.com/film/cam/
 2018-12-23,Phantasm,1979,https://letterboxd.com/film/phantasm/
-2018-12-23,Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau,2014,https://letterboxd.com/film/lost-soul-the-doomed-journey-of-richard-stanleys-island-of-dr-moreau/
+2018-12-23,Lost Soul: The Doomed Journey of Richard Stanley's “Island of Dr. Moreau”,2014,https://letterboxd.com/film/lost-soul-the-doomed-journey-of-richard-stanleys-island-of-dr-moreau/
 2018-12-24,Nightbreed,1990,https://letterboxd.com/film/nightbreed/
 2018-12-29,Vice,2018,https://letterboxd.com/film/vice-2018/
 2018-12-31,Misery,1990,https://letterboxd.com/film/misery/
@@ -1076,3 +1072,302 @@ Date,Name,Year,Letterboxd URI
 2019-01-02,Room Service,1938,https://letterboxd.com/film/room-service/
 2019-01-02,Monkey Business,1931,https://letterboxd.com/film/monkey-business/
 2019-01-02,A Night at the Opera,1935,https://letterboxd.com/film/a-night-at-the-opera/
+2019-01-03,First Reformed,2017,https://letterboxd.com/film/first-reformed/
+2019-01-03,Diary of a Nudist,1961,https://letterboxd.com/film/diary-of-a-nudist/
+2019-01-06,The House That Jack Built,2018,https://letterboxd.com/film/the-house-that-jack-built-2018/
+2019-01-07,Fahrenheit 11/9,2018,https://letterboxd.com/film/fahrenheit-11-9/
+2019-01-07,Terror In Beverly Hills,1989,https://letterboxd.com/film/terror-in-beverly-hills/
+2019-01-07,Thoroughbreds,2017,https://letterboxd.com/film/thoroughbreds-2017/
+2019-01-09,Deadly Prey,1987,https://letterboxd.com/film/deadly-prey/
+2019-01-11,Exorcist II: The Heretic,1977,https://letterboxd.com/film/exorcist-ii-the-heretic/
+2019-01-11,Hollywood Cop,1987,https://letterboxd.com/film/hollywood-cop/
+2019-01-12,The Messenger,1986,https://letterboxd.com/film/the-messenger-1986/
+2019-01-13,Couch,2003,https://letterboxd.com/film/couch/
+2019-01-13,The Favourite,2018,https://letterboxd.com/film/the-favourite/
+2019-01-13,The Last Vampire On Earth,2010,https://letterboxd.com/film/the-last-vampire-on-earth/
+2019-01-14,Perfect Bid: The Contestant Who Knew Too Much,2017,https://letterboxd.com/film/perfect-bid-the-contestant-who-knew-too-much/
+2019-01-15,Destroyer,2018,https://letterboxd.com/film/destroyer-2018/
+2019-01-17,Psychophobia,1982,https://letterboxd.com/film/psychophobia/
+2019-01-18,Death Promise,1977,https://letterboxd.com/film/death-promise/
+2019-01-20,Hostel,2005,https://letterboxd.com/film/hostel/
+2019-01-21,The Lobster,2015,https://letterboxd.com/film/the-lobster/
+2019-01-21,Signs,2002,https://letterboxd.com/film/signs/
+2019-01-21,The Sixth Sense,1999,https://letterboxd.com/film/the-sixth-sense/
+2019-01-21,The Village,2004,https://letterboxd.com/film/the-village/
+2019-01-21,We Need to Talk About Kevin,2011,https://letterboxd.com/film/we-need-to-talk-about-kevin/
+2019-01-30,Last Girl Standing,2015,https://letterboxd.com/film/last-girl-standing/
+2019-02-02,Fireback,1983,https://letterboxd.com/film/fireback/
+2019-02-03,Cape Fear,1991,https://letterboxd.com/film/cape-fear-1991/
+2019-02-05,The Violent Years,1956,https://letterboxd.com/film/the-violent-years/
+2019-02-07,Bad Girls Go to Hell,1965,https://letterboxd.com/film/bad-girls-go-to-hell/
+2019-02-08,The Prodigy,2019,https://letterboxd.com/film/the-prodigy-2019/
+2019-02-09,Shocking Dark,1989,https://letterboxd.com/film/shocking-dark/
+2019-02-10,All the Colors of Giallo,2019,https://letterboxd.com/film/all-the-colors-of-giallo/
+2019-02-10,Cathy's Curse,1977,https://letterboxd.com/film/cathys-curse/
+2019-02-10,"Another Day, Another Man",1966,https://letterboxd.com/film/another-day-another-man/
+2019-02-12,Horror Noire: A History of Black Horror,2019,https://letterboxd.com/film/horror-noire-a-history-of-black-horror/
+2019-02-16,That's Sexploitation!,2013,https://letterboxd.com/film/thats-sexploitation/
+2019-02-19,The Butterfly Effect,2004,https://letterboxd.com/film/the-butterfly-effect/
+2019-02-20,Star Kid,1998,https://letterboxd.com/film/star-kid/
+2019-02-21,Low Blow,1986,https://letterboxd.com/film/low-blow/
+2019-02-23,October Sky,1999,https://letterboxd.com/film/october-sky/
+2019-02-23,Remember Me,2010,https://letterboxd.com/film/remember-me/
+2019-02-23,American Beauty,1999,https://letterboxd.com/film/american-beauty/
+2019-02-23,11.22.63,2016,https://letterboxd.com/film/11-22-63/
+2019-02-23,Jarhead,2005,https://letterboxd.com/film/jarhead/
+2019-02-23,Capote,2005,https://letterboxd.com/film/capote/
+2019-02-23,Final Destination 2,2003,https://letterboxd.com/film/final-destination-2/
+2019-02-25,Scarecrows,1988,https://letterboxd.com/film/scarecrows/
+2019-02-25,The Spell,1977,https://letterboxd.com/film/the-spell/
+2019-02-26,Spider-Man: Into the Spider-Verse,2018,https://letterboxd.com/film/spider-man-into-the-spider-verse/
+2019-03-01,Reckless Decision,1933,https://letterboxd.com/film/reckless-decision/
+2019-03-02,Apollo 11,2019,https://letterboxd.com/film/apollo-11-2019/
+2019-03-03,Polk County Pot Plane,1977,https://letterboxd.com/film/polk-county-pot-plane/
+2019-03-04,Burial Ground,1981,https://letterboxd.com/film/burial-ground/
+2019-03-06,Leaving Neverland,2019,https://letterboxd.com/film/leaving-neverland/
+2019-03-06,Mommy Dead and Dearest,2017,https://letterboxd.com/film/mommy-dead-and-dearest/
+2019-03-10,Blood Beat,1983,https://letterboxd.com/film/blood-beat/
+2019-03-11,Love You To Death,2019,https://letterboxd.com/film/love-you-to-death-2019/
+2019-03-12,Death Wish,1974,https://letterboxd.com/film/death-wish/
+2019-03-12,There's Something Wrong with Aunt Diane,2011,https://letterboxd.com/film/theres-something-wrong-with-aunt-diane/
+2019-03-13,Invasion U.S.A.,1985,https://letterboxd.com/film/invasion-usa-1985/
+2019-03-13,Death Wish II,1982,https://letterboxd.com/film/death-wish-ii/
+2019-03-16,Vivre Sa Vie,1962,https://letterboxd.com/film/vivre-sa-vie/
+2019-03-17,The Possessed,1975,https://letterboxd.com/film/the-possessed-1975-1/
+2019-03-17,I Am Divine,2013,https://letterboxd.com/film/i-am-divine/
+2019-03-17,The Devil's Hand,1961,https://letterboxd.com/film/the-devils-hand/
+2019-03-17,Two Thousand Maniacs!,1964,https://letterboxd.com/film/two-thousand-maniacs/
+2019-03-18,Wendy and Lucy,2008,https://letterboxd.com/film/wendy-and-lucy/
+2019-03-20,Final Voyage,2000,https://letterboxd.com/film/final-voyage/
+2019-03-21,The Inventor: Out for Blood in Silicon Valley,2019,https://letterboxd.com/film/the-inventor-out-for-blood-in-silicon-valley/
+2019-03-23,"A Smell of Honey, a Swallow of Brine",1966,https://letterboxd.com/film/a-smell-of-honey-a-swallow-of-brine/
+2019-03-24,A Sweet Sickness,1968,https://letterboxd.com/film/a-sweet-sickness/
+2019-03-24,Teen-Age Strangler,1964,https://letterboxd.com/film/teen-age-strangler/
+2019-03-25,The Brick Dollhouse,1967,https://letterboxd.com/film/the-brick-dollhouse/
+2019-03-25,King Cohen: The Wild World of Filmmaker Larry Cohen,2017,https://letterboxd.com/film/king-cohen-the-wild-world-of-filmmaker-larry-cohen/
+2019-03-25,Jail Bait,1954,https://letterboxd.com/film/jail-bait-1954/
+2019-03-27,Twisted Pair,2018,https://letterboxd.com/film/twisted-pair/
+2019-03-28,Criminally Insane,1975,https://letterboxd.com/film/criminally-insane/
+2019-03-29,The Touch of Her Flesh,1967,https://letterboxd.com/film/the-touch-of-her-flesh/
+2019-04-01,C.H.U.D.,1984,https://letterboxd.com/film/chud/
+2019-04-03,Legacy of Satan,1974,https://letterboxd.com/film/legacy-of-satan/
+2019-04-04,Indecent Desires,1968,https://letterboxd.com/film/indecent-desires/
+2019-04-05,D.E.B.S.,2004,https://letterboxd.com/film/debs/
+2019-04-06,Castle Freak,1995,https://letterboxd.com/film/castle-freak/
+2019-04-06,Cop Hater,1958,https://letterboxd.com/film/cop-hater/
+2019-04-06,Uncle Sam,1996,https://letterboxd.com/film/uncle-sam/
+2019-04-07,The Curse of Her Flesh,1968,https://letterboxd.com/film/the-curse-of-her-flesh/
+2019-04-07,The Killing of America,1981,https://letterboxd.com/film/the-killing-of-america/
+2019-04-07,The Kiss of Her Flesh,1968,https://letterboxd.com/film/the-kiss-of-her-flesh/
+2019-04-07,Possum,2018,https://letterboxd.com/film/possum/
+2019-04-09,Deadly Weapons,1974,https://letterboxd.com/film/deadly-weapons/
+2019-04-11,Double Agent 73,1974,https://letterboxd.com/film/double-agent-73/
+2019-04-13,Death Wish 3,1985,https://letterboxd.com/film/death-wish-3/
+2019-04-14,Thunder Road,2018,https://letterboxd.com/film/thunder-road-2018/
+2019-04-14,Deadly Duo,1962,https://letterboxd.com/film/deadly-duo-1962/
+2019-04-14,The Girls from Thunder Strip,1970,https://letterboxd.com/film/the-girls-from-thunder-strip/
+2019-04-15,Stalkers,2013,https://letterboxd.com/film/stalkers/
+2019-04-16,The Cry Baby Killer,1958,https://letterboxd.com/film/the-cry-baby-killer/
+2019-04-17,Us,2019,https://letterboxd.com/film/us-2019/
+2019-04-18,Twin Peaks: The Return,2017,https://letterboxd.com/film/twin-peaks-the-return/
+2019-04-20,Truck Stop Women,1974,https://letterboxd.com/film/truck-stop-women/
+2019-04-20,"Hot Skin, Cold Cash",1965,https://letterboxd.com/film/hot-skin-cold-cash/
+2019-04-21,Madman,1981,https://letterboxd.com/film/madman/
+2019-04-21,The Teacher,1974,https://letterboxd.com/film/the-teacher/
+2019-04-21,Mission Control: The Unsung Heroes of Apollo,2017,https://letterboxd.com/film/mission-control-the-unsung-heroes-of-apollo/
+2019-04-22,Wild Weed,1949,https://letterboxd.com/film/wild-weed/
+2019-04-22,I Am Here....Now,2009,https://letterboxd.com/film/i-am-herenow/
+2019-04-23,Test Tube Babies,1948,https://letterboxd.com/film/test-tube-babies/
+2019-04-24,Solarbabies,1986,https://letterboxd.com/film/solarbabies/
+2019-04-25,The Endless,2017,https://letterboxd.com/film/the-endless/
+2019-04-27,Demon Wind,1990,https://letterboxd.com/film/demon-wind/
+2019-04-28,Something Weird,1967,https://letterboxd.com/film/something-weird/
+2019-05-01,Pet Sematary,2019,https://letterboxd.com/film/pet-sematary-2019/
+2019-05-02,She-Devils on Wheels,1968,https://letterboxd.com/film/she-devils-on-wheels/
+2019-05-02,Just for the Hell of It,1968,https://letterboxd.com/film/just-for-the-hell-of-it/
+2019-05-04,"Extremely Wicked, Shockingly Evil and Vile",2019,https://letterboxd.com/film/extremely-wicked-shockingly-evil-and-vile/
+2019-05-07,She-Man: A Story of Fixation,1967,https://letterboxd.com/film/she-man-a-story-of-fixation/
+2019-05-09,Let Me Die a Woman,1977,https://letterboxd.com/film/let-me-die-a-woman/
+2019-05-10,Dressed to Kill,1980,https://letterboxd.com/film/dressed-to-kill-1980/
+2019-05-11,Code of Silence,1985,https://letterboxd.com/film/code-of-silence/
+2019-05-11,BlacKkKlansman,2018,https://letterboxd.com/film/blackkklansman/
+2019-05-11,The Unknown Known,2013,https://letterboxd.com/film/the-unknown-known/
+2019-05-12,My Brother's Wife,1966,https://letterboxd.com/film/my-brothers-wife/
+2019-05-14,Scum of the Earth!,1963,https://letterboxd.com/film/scum-of-the-earth/
+2019-05-17,Herschell Gordon Lewis: The Godfather of Gore,2010,https://letterboxd.com/film/herschell-gordon-lewis-the-godfather-of-gore/
+2019-05-26,The Wicker Man,2006,https://letterboxd.com/film/the-wicker-man-2006/
+2019-05-27,The Silence,2019,https://letterboxd.com/film/the-silence-2019/
+2019-05-29,The Hole in the Ground,2019,https://letterboxd.com/film/the-hole-in-the-ground-2019/
+2019-06-01,Psychos in Love,1987,https://letterboxd.com/film/psychos-in-love/
+2019-06-04,But I'm a Cheerleader,1999,https://letterboxd.com/film/but-im-a-cheerleader/
+2019-06-06,They Paid with Bullets: Chicago 1929,1969,https://letterboxd.com/film/they-paid-with-bullets-chicago-1929/
+2019-06-07,Hide and Seek,2005,https://letterboxd.com/film/hide-and-seek/
+2019-06-08,Taking Lives,2004,https://letterboxd.com/film/taking-lives/
+2019-06-10,Tombs of the Blind Dead,1972,https://letterboxd.com/film/tombs-of-the-blind-dead/
+2019-06-10,Assault in Paradise,1977,https://letterboxd.com/film/assault-in-paradise/
+2019-06-13,The Nun,2018,https://letterboxd.com/film/the-nun-2018/
+2019-06-15,Heroes for Hire,1984,https://letterboxd.com/film/heroes-for-hire/
+2019-06-16,Backcountry,2014,https://letterboxd.com/film/backcountry/
+2019-06-18,Chained for Life,1952,https://letterboxd.com/film/chained-for-life/
+2019-06-20,Hollywood Vice Squad,1986,https://letterboxd.com/film/hollywood-vice-squad/
+2019-06-20,The Driller Killer,1979,https://letterboxd.com/film/the-driller-killer/
+2019-06-23,Masters of the Universe,1987,https://letterboxd.com/film/masters-of-the-universe/
+2019-06-26,God Knows Where I Am,2016,https://letterboxd.com/film/god-knows-where-i-am/
+2019-07-03,Midsommar,2019,https://letterboxd.com/film/midsommar/
+2019-07-06,Fatal Bond,1991,https://letterboxd.com/film/fatal-bond/
+2019-07-12,Thought Crimes,2015,https://letterboxd.com/film/thought-crimes/
+2019-07-12,"I Love You, Now Die: The Commonwealth v. Michelle Carter",2019,https://letterboxd.com/film/i-love-you-now-die-the-commonwealth-v-michelle-carter/
+2019-07-13,Munchausen,2013,https://letterboxd.com/film/munchausen/
+2019-07-21,Secret Obsession,2019,https://letterboxd.com/film/secret-obsession/
+2019-07-24,The Immoral Three,1975,https://letterboxd.com/film/the-immoral-three/
+2019-07-24,The Invasion,2007,https://letterboxd.com/film/the-invasion/
+2019-07-25,Apollo 13,1995,https://letterboxd.com/film/apollo-13/
+2019-07-25,Bob le Flambeur,1956,https://letterboxd.com/film/bob-le-flambeur/
+2019-07-26,Free Radicals: A History of Experimental Film,2012,https://letterboxd.com/film/free-radicals-a-history-of-experimental-film/
+2019-07-27,Rats: Night of Terror,1984,https://letterboxd.com/film/rats-night-of-terror/
+2019-07-29,Flowers in the Attic,2014,https://letterboxd.com/film/flowers-in-the-attic-2014/
+2019-07-30,Bad Black,2016,https://letterboxd.com/film/bad-black/
+2019-07-31,78/52,2017,https://letterboxd.com/film/78-52/
+2019-07-31,Once Upon a Time… in Hollywood,2019,https://letterboxd.com/film/once-upon-a-time-in-hollywood/
+2019-08-01,The Great Hack,2019,https://letterboxd.com/film/the-great-hack/
+2019-08-01,Bad Lieutenant,1992,https://letterboxd.com/film/bad-lieutenant/
+2019-08-01,Hot Cars,1956,https://letterboxd.com/film/hot-cars/
+2019-08-03,Garry Winogrand: All Things Are Photographable,2018,https://letterboxd.com/film/garry-winogrand-all-things-are-photographable/
+2019-08-04,Dial M for Murder,1954,https://letterboxd.com/film/dial-m-for-murder/
+2019-08-04,Luz,2018,https://letterboxd.com/film/luz-2018/
+2019-08-05,The Watcher,2016,https://letterboxd.com/film/the-watcher-2016/
+2019-08-06,Freddy's Dead: The Final Nightmare,1991,https://letterboxd.com/film/freddys-dead-the-final-nightmare/
+2019-08-07,The Bye Bye Man,2017,https://letterboxd.com/film/the-bye-bye-man/
+2019-08-08,The Autopsy of Jane Doe,2016,https://letterboxd.com/film/the-autopsy-of-jane-doe/
+2019-08-09,The Conversation,1974,https://letterboxd.com/film/the-conversation/
+2019-08-10,Dock Ellis & The LSD No-No,2010,https://letterboxd.com/film/dock-ellis-the-lsd-no-no/
+2019-08-13,Chained Girls,1965,https://letterboxd.com/film/chained-girls/
+2019-08-14,Girl Gang,1954,https://letterboxd.com/film/girl-gang/
+2019-08-15,Meshes of the Afternoon,1943,https://letterboxd.com/film/meshes-of-the-afternoon/
+2019-08-15,Eaux d'artifice,1953,https://letterboxd.com/film/eaux-dartifice/
+2019-08-16,Hard Ticket to Hawaii,1987,https://letterboxd.com/film/hard-ticket-to-hawaii/
+2019-08-17,Red Roses of Passion,1966,https://letterboxd.com/film/red-roses-of-passion/
+2019-08-17,Olivia,1951,https://letterboxd.com/film/olivia-1951/
+2019-08-18,Moonstruck,1987,https://letterboxd.com/film/moonstruck/
+2019-08-19,"The Life and Death of 9413, a Hollywood Extra",1928,https://letterboxd.com/film/the-life-and-death-of-9413-a-hollywood-extra/
+2019-08-19,Fitzcarraldo,1982,https://letterboxd.com/film/fitzcarraldo/
+2019-08-20,Burden of Dreams,1982,https://letterboxd.com/film/burden-of-dreams/
+2019-08-23,High School Hellcats,1958,https://letterboxd.com/film/high-school-hellcats/
+2019-08-25,Deadly Switch,2019,https://letterboxd.com/film/deadly-switch/
+2019-08-30,The Great Silence,1968,https://letterboxd.com/film/the-great-silence/
+2019-08-31,Moonlighting Wives,1966,https://letterboxd.com/film/moonlighting-wives/
+2019-09-01,Night Moves,2013,https://letterboxd.com/film/night-moves-2013/
+2019-09-01,Strangers on a Train,1951,https://letterboxd.com/film/strangers-on-a-train/
+2019-09-02,The Decline of Western Civilization,1981,https://letterboxd.com/film/the-decline-of-western-civilization/
+2019-09-02,Psycho Stripper,2019,https://letterboxd.com/film/psycho-stripper/
+2019-09-03,Big Trouble in Little China,1986,https://letterboxd.com/film/big-trouble-in-little-china/
+2019-09-04,Hunt to Kill,2010,https://letterboxd.com/film/hunt-to-kill/
+2019-09-06,Mystery of the Seeing Hand and Golden Sphere,2010,https://letterboxd.com/film/mystery-of-the-seeing-hand-and-golden-sphere/
+2019-09-08,All the Colors of the Dark,1972,https://letterboxd.com/film/all-the-colors-of-the-dark/
+2019-09-10,The Third Eye,1966,https://letterboxd.com/film/the-third-eye-1966/
+2019-09-11,Revenge,2017,https://letterboxd.com/film/revenge-2017-1/
+2019-09-14,Stroszek,1977,https://letterboxd.com/film/stroszek/
+2019-09-14,"Aguirre, the Wrath of God",1972,https://letterboxd.com/film/aguirre-the-wrath-of-god/
+2019-09-15,It Chapter Two,2019,https://letterboxd.com/film/it-chapter-two/
+2019-09-15,Eraser,1996,https://letterboxd.com/film/eraser/
+2019-09-15,Gypsy's Revenge,2018,https://letterboxd.com/film/gypsys-revenge/
+2019-09-18,Kate Plays Christine,2016,https://letterboxd.com/film/kate-plays-christine/
+2019-09-19,Meek's Cutoff,2010,https://letterboxd.com/film/meeks-cutoff/
+2019-09-22,A Vigilante,2018,https://letterboxd.com/film/a-vigilante/
+2019-09-23,Silver Bullets,2011,https://letterboxd.com/film/silver-bullets/
+2019-09-26,One Cut of the Dead,2017,https://letterboxd.com/film/one-cut-of-the-dead/
+2019-09-27,My Body Hungers,1967,https://letterboxd.com/film/my-body-hungers/
+2019-10-03,I Don't Want to Be Born,1975,https://letterboxd.com/film/i-dont-want-to-be-born/
+2019-10-04,The New York Ripper,1982,https://letterboxd.com/film/the-new-york-ripper/
+2019-10-04,Don't Go in the House,1979,https://letterboxd.com/film/dont-go-in-the-house/
+2019-10-05,The Taking of Deborah Logan,2014,https://letterboxd.com/film/the-taking-of-deborah-logan/
+2019-10-05,A Bucket of Blood,1959,https://letterboxd.com/film/a-bucket-of-blood/
+2019-10-06,Color Me Blood Red,1965,https://letterboxd.com/film/color-me-blood-red/
+2019-10-06,A Hot Night at the Go-Go Lounge!,1966,https://letterboxd.com/film/a-hot-night-at-the-go-go-lounge/
+2019-10-07,Goth,2003,https://letterboxd.com/film/goth-2003/
+2019-10-07,The Ritual,2017,https://letterboxd.com/film/the-ritual-2017/
+2019-10-09,Slugs,1988,https://letterboxd.com/film/slugs/
+2019-10-10,The Psychic,1977,https://letterboxd.com/film/the-psychic/
+2019-10-10,Threads,1984,https://letterboxd.com/film/threads/
+2019-10-13,Joker,2019,https://letterboxd.com/film/joker-2019/
+2019-10-14,Final Curtain,1957,https://letterboxd.com/film/final-curtain/
+2019-10-15,Torso,1973,https://letterboxd.com/film/torso/
+2019-10-16,Rabid,1977,https://letterboxd.com/film/rabid/
+2019-10-16,Lyle,2014,https://letterboxd.com/film/lyle/
+2019-10-17,Grotesque,1988,https://letterboxd.com/film/grotesque-1988/
+2019-10-17,El Camino: A Breaking Bad Movie,2019,https://letterboxd.com/film/el-camino-a-breaking-bad-movie/
+2019-10-19,New Year's Evil,1980,https://letterboxd.com/film/new-years-evil/
+2019-10-19,The Lighthouse,2019,https://letterboxd.com/film/the-lighthouse-2019/
+2019-10-19,Uninvited,1988,https://letterboxd.com/film/uninvited/
+2019-10-20,Ghosthouse,1988,https://letterboxd.com/film/ghosthouse/
+2019-10-20,Witchery,1988,https://letterboxd.com/film/witchery/
+2019-10-21,Racket Girls,1951,https://letterboxd.com/film/racket-girls/
+2019-10-22,Psychomania,1973,https://letterboxd.com/film/psychomania/
+2019-10-26,The Exorcist III,1990,https://letterboxd.com/film/the-exorcist-iii/
+2019-10-27,The Amityville Horror,1979,https://letterboxd.com/film/the-amityville-horror/
+2019-10-28,Stranger in Our House,1978,https://letterboxd.com/film/stranger-in-our-house/
+2019-10-28,The Little Shop of Horrors,1960,https://letterboxd.com/film/the-little-shop-of-horrors/
+2019-10-28,Saw,2004,https://letterboxd.com/film/saw/
+2019-10-29,Macabre,1980,https://letterboxd.com/film/macabre-1980/
+2019-10-30,Tales from the Darkside: The Movie,1990,https://letterboxd.com/film/tales-from-the-darkside-the-movie/
+2019-10-31,Don't Hang Up,1974,https://letterboxd.com/film/dont-hang-up-1974/
+2019-10-31,Bride of the Monster,1955,https://letterboxd.com/film/bride-of-the-monster/
+2019-11-01,Bloody Moon,1981,https://letterboxd.com/film/bloody-moon/
+2019-11-01,The Rage: Carrie 2,1999,https://letterboxd.com/film/the-rage-carrie-2/
+2019-11-02,Boogeymen: The Killer Compilation,2001,https://letterboxd.com/film/boogeymen-the-killer-compilation/
+2019-11-04,Hands of Steel,1986,https://letterboxd.com/film/hands-of-steel/
+2019-11-04,Glen or Glenda,1953,https://letterboxd.com/film/glen-or-glenda/
+2019-11-04,Halloween 5: The Revenge of Michael Myers,1989,https://letterboxd.com/film/halloween-5-the-revenge-of-michael-myers/
+2019-11-08,Skinner,1993,https://letterboxd.com/film/skinner/
+2019-11-08,River of Grass,1994,https://letterboxd.com/film/river-of-grass/
+2019-11-08,Don't Look in the Basement,1973,https://letterboxd.com/film/dont-look-in-the-basement/
+2019-11-09,Stanley,1972,https://letterboxd.com/film/stanley/
+2019-11-09,9 Deaths of the Ninja,1985,https://letterboxd.com/film/9-deaths-of-the-ninja-1985/
+2019-11-10,Dance Hall Racket,1953,https://letterboxd.com/film/dance-hall-racket/
+2019-11-11,Stray Cat Rock: Delinquent Girl Boss,1970,https://letterboxd.com/film/stray-cat-rock-delinquent-girl-boss/
+2019-11-14,Terminator: Dark Fate,2019,https://letterboxd.com/film/terminator-dark-fate/
+2019-11-17,Martial Law,1990,https://letterboxd.com/film/martial-law/
+2019-11-18,Martial Law II: Undercover,1991,https://letterboxd.com/film/martial-law-ii-undercover/
+2019-11-18,Lena's Holiday,1991,https://letterboxd.com/film/lenas-holiday/
+2019-11-18,Las Vegas Lady,1975,https://letterboxd.com/film/las-vegas-lady/
+2019-11-23,Robowar,1988,https://letterboxd.com/film/robowar/
+2019-11-26,Vigilante,1983,https://letterboxd.com/film/vigilante/
+2019-11-26,Eye for an Eye,1996,https://letterboxd.com/film/eye-for-an-eye/
+2019-11-27,Woodshock,2017,https://letterboxd.com/film/woodshock-2017/
+2019-11-27,Dolemite Is My Name,2019,https://letterboxd.com/film/dolemite-is-my-name/
+2019-11-27,Parasite,2019,https://letterboxd.com/film/parasite-2019/
+2019-11-28,A Taste of Flesh,1967,https://letterboxd.com/film/a-taste-of-flesh/
+2019-11-30,Brain of Blood,1971,https://letterboxd.com/film/brain-of-blood/
+2019-11-30,The Nightingale,2018,https://letterboxd.com/film/the-nightingale-2018/
+2019-11-30,Snowpiercer,2013,https://letterboxd.com/film/snowpiercer/
+2019-12-03,Mondo Cane,1962,https://letterboxd.com/film/mondo-cane/
+2019-12-03,The Ice House,1969,https://letterboxd.com/film/the-ice-house-1969/
+2019-12-03,All About Christmas Eve,2012,https://letterboxd.com/film/all-about-christmas-eve/
+2019-12-05,Dolemite,1975,https://letterboxd.com/film/dolemite/
+2019-12-05,The Sex Perils of Paulette,1965,https://letterboxd.com/film/the-sex-perils-of-paulette/
+2019-12-06,Curse of the Vampires,1966,https://letterboxd.com/film/curse-of-the-vampires/
+2019-12-07,Stripped to Kill,1987,https://letterboxd.com/film/stripped-to-kill/
+2019-12-09,The Queen,1968,https://letterboxd.com/film/the-queen/
+2019-12-09,Dial Code Santa Claus,1989,https://letterboxd.com/film/dial-code-santa-claus/
+2019-12-10,The Irishman,2019,https://letterboxd.com/film/the-irishman-2019/
+2019-12-10,Gremlins,1984,https://letterboxd.com/film/gremlins/
+2019-12-11,The Hookers,1967,https://letterboxd.com/film/the-hookers/
+2019-12-13,Booksmart,2019,https://letterboxd.com/film/booksmart/
+2019-12-13,High Life,2018,https://letterboxd.com/film/high-life-2018/
+2019-12-14,The Wind,2018,https://letterboxd.com/film/the-wind-2018/
+2019-12-14,The Human Tornado,1976,https://letterboxd.com/film/the-human-tornado/
+2019-12-15,A Girl Walks Home Alone at Night,2014,https://letterboxd.com/film/a-girl-walks-home-alone-at-night/
+2019-12-17,Mary Jane's Not a Virgin Anymore,1996,https://letterboxd.com/film/mary-janes-not-a-virgin-anymore/
+2019-12-17,I Was a Teenage Serial Killer,1993,https://letterboxd.com/film/i-was-a-teenage-serial-killer/
+2019-12-21,Orgy of the Dead,1965,https://letterboxd.com/film/orgy-of-the-dead/
+2019-12-22,Fleshpot on 42nd Street,1973,https://letterboxd.com/film/fleshpot-on-42nd-street/
+2019-12-28,Zombie 3,1988,https://letterboxd.com/film/zombie-3/
+2019-12-28,Uncut Gems,2019,https://letterboxd.com/film/uncut-gems/
+2019-12-29,Humanoids from the Deep,1980,https://letterboxd.com/film/humanoids-from-the-deep/
+2019-12-29,Ecco,1963,https://letterboxd.com/film/ecco/
+2019-12-29,The Forbidden,1966,https://letterboxd.com/film/the-forbidden/
+2019-12-29,The Notorious Bettie Page,2005,https://letterboxd.com/film/the-notorious-bettie-page/
+2019-12-31,The Hitch-Hiker,1953,https://letterboxd.com/film/the-hitch-hiker/
+2019-12-31,Rage to Kill,1988,https://letterboxd.com/film/rage-to-kill/
+2020-01-01,Green,2011,https://letterboxd.com/film/green-2011/
+2020-01-01,Always Shine,2016,https://letterboxd.com/film/always-shine/

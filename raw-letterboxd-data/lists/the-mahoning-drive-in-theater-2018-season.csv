@@ -1,6 +1,8 @@
 
 Date,Name,Tags,URL,Description
-2018-06-05,"the Mahoning Drive-In Theater, 2018 Season",,https://letterboxd.com/malantonio/list/the-mahoning-drive-in-theater-2018-season/,"Films shown at the <a href=""http://www.mahoningdit.com/"">Mahoning Drive-In Theater</a> (Lehighton, Pennsylvania) in 2018. See notes for programs + dates. (Titles pulled from Facebook events; secret showings aren't included)"
+2018-06-05,"the Mahoning Drive-In Theater, 2018 Season",,https://letterboxd.com/aghoulaghast/list/the-mahoning-drive-in-theater-2018-season/,"Films shown at the <a href=""http://www.mahoningdit.com/"">Mahoning Drive-In Theater</a> (Lehighton, Pennsylvania) in 2018. See notes for programs + dates. (Titles pulled from Facebook events; secret showings aren't included)
+
+Note: I haven't included the titles from the ""Shorts in the Fall"" short film festival because they aren't listed on tmdb."
 
 Position,Name,Year,URL,Description
 1,The Wizard of Oz,1939,https://letterboxd.com/film/the-wizard-of-oz-1939/,"2018 Season Premiere: April 28 - 29, 2018"
@@ -11,7 +13,7 @@ Position,Name,Year,URL,Description
 6,Ghostbusters II,1989,https://letterboxd.com/film/ghostbusters-ii/,"Bill Murray Madness (Night 2): May 5, 2018"
 7,GoodFellas,1990,https://letterboxd.com/film/goodfellas/,"Martin Scorsese Spotlight: May 11-12, 2018"
 8,Casino,1995,https://letterboxd.com/film/casino/,"Martin Scorsese Spotlight: May 11-12, 2018"
-9,At the Drive-In,,https://letterboxd.com/film/at-the-drive-in/,"At The Drive-In: May 19-20, 2018"
+9,At the Drive-In,2017,https://letterboxd.com/film/at-the-drive-in/,"At The Drive-In: May 19-20, 2018"
 10,American Movie,1999,https://letterboxd.com/film/american-movie/,"At The Drive-In: May 19-20, 2018"
 11,Re-Animator,1985,https://letterboxd.com/film/re-animator/,"Drive-In Zombiefest IV (Night 1): May 25, 2018"
 12,Return of the Living Dead Part II,1988,https://letterboxd.com/film/return-of-the-living-dead-part-ii/,"Drive-In Zombiefest IV (Night 1): May 25, 2018"
@@ -46,7 +48,7 @@ Position,Name,Year,URL,Description
 41,Ozone,1995,https://letterboxd.com/film/ozone/,"Drive-In VHS Fest (Night 1): July 6, 2018"
 42,Splatter Farm,1987,https://letterboxd.com/film/splatter-farm/,"Drive-In VHS Fest (Night 1): July 6, 2018"
 43,Hack-O-Lantern,1988,https://letterboxd.com/film/hack-o-lantern/,"Drive-In VHS Fest (Night 2): July 7, 2018"
-44,Backwoods Marcy,1999,https://letterboxd.com/film/film:461606/,"Drive-In VHS Fest (Night 2): July 7, 2018"
+44,Backwoods Marcy,1999,https://letterboxd.com/film/backwoods-marcy/,"Drive-In VHS Fest (Night 2): July 7, 2018"
 45,Blood Diner,1987,https://letterboxd.com/film/blood-diner/,"Drive-In VHS Fest (Night 2): July 7, 2018"
 46,A Christmas Story,1983,https://letterboxd.com/film/a-christmas-story-1983/,Christmas in July: July 13 - 14 2018
 47,Elf,2003,https://letterboxd.com/film/elf/,Christmas in July: July 13 - 14 2018
@@ -58,7 +60,7 @@ Position,Name,Year,URL,Description
 53,The Brain Eaters,1958,https://letterboxd.com/film/the-brain-eaters/,"Schlock-O-Rama (Night 1): July 27, 2018"
 54,Dementia 13,1963,https://letterboxd.com/film/dementia-13/,"Schlock-O-Rama (Night 2): July 28, 2018"
 55,The Slime People,1963,https://letterboxd.com/film/the-slime-people/,"Schlock-O-Rama (Night 2): July 28, 2018"
-56,"Guru, The Mad Monk",1970,https://letterboxd.com/film/guru-the-mad-monk/,"Schlock-O-Rama (Night 2): July 28, 2018"
+56,"Guru, the Mad Monk",1970,https://letterboxd.com/film/guru-the-mad-monk/,"Schlock-O-Rama (Night 2): July 28, 2018"
 57,The Undertaker and His Pals,1966,https://letterboxd.com/film/the-undertaker-and-his-pals/,"Schlock-O-Rama (Night 2): July 28, 2018"
 58,Dracula,1931,https://letterboxd.com/film/dracula/,"Universal Monster Mash (Night 1): August 3, 2018"
 59,Creature from the Black Lagoon,1954,https://letterboxd.com/film/creature-from-the-black-lagoon/,"Universal Monster Mash (Night 1): August 3, 2018"
@@ -81,3 +83,26 @@ Position,Name,Year,URL,Description
 76,A Boy and His Dog,1975,https://letterboxd.com/film/a-boy-and-his-dog/,"Reel Weird Weekend (Night 3): September 2, 2018"
 77,Clerks,1994,https://letterboxd.com/film/clerks/,"Kevin Smith Fest IV: September 7-8, 2018"
 78,Clerks II,2006,https://letterboxd.com/film/clerks-ii/,"Kevin Smith Fest IV: September 7-8, 2018"
+79,The Evil Dead,1981,https://letterboxd.com/film/the-evil-dead/,"the Evil Dead Trilogy: September 14-15, 2018"
+80,Evil Dead II,1987,https://letterboxd.com/film/evil-dead-ii/,"the Evil Dead Trilogy: September 14-15, 2018"
+81,Army of Darkness,1992,https://letterboxd.com/film/army-of-darkness/,"the Evil Dead Trilogy: September 14-15, 2018"
+82,Gremlins,1984,https://letterboxd.com/film/gremlins/,"Gremlins Takeover!: September 21-22, 2018"
+83,Gremlins 2: The New Batch,1990,https://letterboxd.com/film/gremlins-2-the-new-batch/,"Gremlins Takeover!: September 21-22, 2018"
+84,Deranged,1974,https://letterboxd.com/film/deranged-1974/,"Weekend of Terror! (Night 1): September 28, 2018"
+85,Terror at Red Wolf Inn,1972,https://letterboxd.com/film/terror-at-red-wolf-inn/,"Weekend of Terror! (Night 1): September 28, 2018"
+86,The Severed Arm,1973,https://letterboxd.com/film/the-severed-arm/,"Weekend of Terror! (Night 1): September 28, 2018"
+87,The Town That Dreaded Sundown,1976,https://letterboxd.com/film/the-town-that-dreaded-sundown/,"Weekend of Terror! (Night 2): September 29, 2018"
+88,The Toolbox Murders,1978,https://letterboxd.com/film/the-toolbox-murders/,"Weekend of Terror! (Night 2): September 29, 2018"
+89,Drive-In Massacre,1976,https://letterboxd.com/film/drive-in-massacre/,"Weekend of Terror! (Night 2): September 29, 2018"
+90,Snake in the Eagle's Shadow,1978,https://letterboxd.com/film/snake-in-the-eagles-shadow/,"East Meets West at the Drive-In! (Night 1): October 5, 2018"
+91,Karate Warriors,1976,https://letterboxd.com/film/karate-warriors/,"East Meets West at the Drive-In! (Night 1): October 5, 2018"
+92,Bruce Lee Fights Back from the Grave,1976,https://letterboxd.com/film/bruce-lee-fights-back-from-the-grave/,"East Meets West at the Drive-In! (Night 1): October 5, 2018"
+93,If You Meet Sartana Pray for Your Death,1968,https://letterboxd.com/film/if-you-meet-sartana-pray-for-your-death/,"East Meets West at the Drive-In! (Night 2): October 6, 2018"
+94,The Fighting Fists Of Shanghai Joe,1973,https://letterboxd.com/film/the-fighting-fists-of-shanghai-joe/,"East Meets West at the Drive-In! (Night 2): October 6, 2018"
+95,Cut-Throats Nine,1972,https://letterboxd.com/film/cut-throats-nine/,"East Meets West at the Drive-In! (Night 2): October 6, 2018"
+96,Tales From The Darkside,1985,,"Hail to the King - Stephen King Double Feature: October 12-13, 2018"
+97,Sleepwalkers,1992,https://letterboxd.com/film/sleepwalkers/,"Hail to the King - Stephen King Double Feature: October 12-13, 2018"
+98,Scream,1996,https://letterboxd.com/film/scream/,"90s Horror Party! (Night 1): October 26, 2018"
+99,Scream 2,1997,https://letterboxd.com/film/scream-2/,"90s Horror Party! (Night 1): October 26, 2018"
+100,The Craft,1996,https://letterboxd.com/film/the-craft/,"90s Horror Party! (Night 2): October 27, 2018"
+101,I Know What You Did Last Summer,1997,https://letterboxd.com/film/i-know-what-you-did-last-summer/,"90s Horror Party! (Night 2): October 27, 2018"
